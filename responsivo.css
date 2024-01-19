@@ -1,0 +1,38 @@
+@media screen and (max-width:320px){
+	.flex-pai{
+		display: none;
+
+	}
+
+
+	.main{
+		flex-grow: 1;
+		display: block;
+		margin: 50%;
+		margin-left: 20%;
+	}
+
+	.roda-pe{
+		position: absolute;
+	}
+
+
+	.filho{
+		display: flex;
+		flex-direction: column;
+	}
+
+	.texto{
+		display: flex;
+		flex-direction: column;
+		margin: 50%;
+		font-size: 20px;
+		font-weight: 20px;
+
+
+
+
+
+
+	}
+}
